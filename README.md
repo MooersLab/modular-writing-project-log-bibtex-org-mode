@@ -43,12 +43,17 @@ These files can be viewed in other buffers by double-clicking their file paths.
 - Org-mode can be edited with Voice-In Plus in Google Chrome if you connect via GhostText and atomicchrome.
   
 ## Cautions
+
+### Access from org file to protocols
 The downside of this modular approach is that the texts from the imports are only visible inside the main document after exporting from org-mode to HTML, PDF, MS Word, or whatever.
 Most people will spend most of their time interacting with the org file rather than the output file.
 To improve access to these texts, you can always copy and paste select protocols into the appropriate locations in the org file. 
-
 As mentioned above, you can use the file path in the include or input statement to open the file of interest in another buffer in Emacs.
 The latter flexibility is part of the joys of using org-mode and Emacs.
+
+### Collaborative editing
+The web-based variants provide a graphical interface for collaborative editing.
+With org-mode, you can collaborate via private repositories on GitHub or Codeberg.
 
 
 ## Update history
