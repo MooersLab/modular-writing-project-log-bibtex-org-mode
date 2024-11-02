@@ -35,7 +35,7 @@ The org-mode `#+INCLUDE:` command or the LaTeX `\input` commands are used.
 The included files can be written in LaTeX or org-mode.
 These files can be viewed in other buffers by double-clicking their file paths.
 
-## Releated variants
+## Related variants
 
 - An org-mode variant that uses BibLaTeX instead of BibTeX
 - Variants that use LaTeX (will include zip file for drag-on-drop install on Overleaf), R Markdown, and Typst.
