@@ -2,6 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Template for the modular form of the writing project log file with BibTeX for use in org-mode
+<img width="1064" alt="titleimage" src="https://github.com/user-attachments/assets/6b039ee7-f289-4a85-88e4-640459af7e2b">
+
+
 
 ## Problem addressed
 This is a tool for planning and managing a specific writing project.
