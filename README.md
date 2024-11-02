@@ -9,7 +9,7 @@ This tool can be applied to any project that requires effort over multiple days:
 
 The primary purpose of this tool is to improve the clarity of thinking about a writing project, accelerating its completion and improving its impact.
 Its secondary purpose is to enable the speedy resumption of an interrupted project.
-A side effect of using this template is the easing of the fear of forgetting (FoF) where you left off on a project and the fear of the loss of momentum (FoLM).
+A side effect of using this template is easing the fear of forgetting (FoF) where you left off on a project and the fear of losing momentum (FoLM).
 The side effects grow proportionately with the use of the template.
 
 
@@ -38,12 +38,13 @@ These files can be viewed in other buffers by double-clicking their file paths.
 ## Releated variants
 
 - An org-mode variant that uses BibLaTeX instead of BibTeX
-- Variants that use LaTeX, R Markdown, and Typst.
-
+- Variants that use LaTeX (will include zip file for drag-on-drop install on Overleaf), R Markdown, and Typst.
+- Voice computing via Voice-In Plus in Google Chrome can be used directly by web-based editors for these other variants (Overleaf.com, JupyterLab, and the typst.app, respectively).
+  
 ## Cautions
 The downside of this modular approach is that the texts from the imports are only visible inside the main document after exporting from org-mode to HTML, PDF, MS Word, or whatever.
 Most people will spend most of their time interacting with the org file rather than the output file.
-You can always copy and paste select protocols into the appropriate locations in the org file to improve access. 
+To improve access to these texts, you can always copy and paste select protocols into the appropriate locations in the org file. 
 
 As mentioned above, you can use the file path in the include or input statement to open the file of interest in another buffer in Emacs.
 The latter flexibility is part of the joys of using org-mode and Emacs.
