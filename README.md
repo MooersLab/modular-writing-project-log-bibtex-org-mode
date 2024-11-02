@@ -40,6 +40,7 @@ These files can be viewed in other buffers by double-clicking their file paths.
 - An org-mode variant that uses BibLaTeX instead of BibTeX
 - Variants that use LaTeX (will include zip file for drag-on-drop install on Overleaf), R Markdown, and Typst.
 - Voice computing via Voice-In Plus in Google Chrome can be used directly by web-based editors for these other variants (Overleaf.com, JupyterLab, and the typst.app, respectively).
+- Org-mode can be edited with Voice-In Plus in Google Chrome if you connect via GhostText and atomicchrome.
   
 ## Cautions
 The downside of this modular approach is that the texts from the imports are only visible inside the main document after exporting from org-mode to HTML, PDF, MS Word, or whatever.
