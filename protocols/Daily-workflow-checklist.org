@@ -1,0 +1,10 @@
+# Protocol for daily workflow.
+- [ ] At the start of the work session, review the timeline, recent daily entries, next action item, and the to-do list. You might use org-agenda instead.
+- [ ] Write the goal(s) for the current writing session to re-engage in the work. These goals could be retained or deleted at the end of the work session.
+- [ ] At the end of the work session, move finished items to an achievement list for the day.
+- [ ] Move the unfinished items to the to-do list.
+- [ ] Identify the next task or action for the next writing session.
+- [ ] [Optional] Update the wordcount.txt file, if you wrote anything, and a time log, if you keep one.
+- [ ] [Optional] Update the project sheet in the Writing Progress Workbook, if you keep one.
+- [ ] [Optional] Update your knowledge base (e.g., zettelkasten).
+- [ ] [Optional] Clean up your mess (e.g., file downloaded PDFs, update your global.bib file).

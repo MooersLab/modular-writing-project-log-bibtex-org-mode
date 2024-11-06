@@ -1,0 +1,8 @@
+# Periodic review workflow
+1. Review checklist for manuscript completion.
+2. Review timeline and milestones.
+3. Review periodic assessments of the current state. Address the following questions:
+  4. How far is the manuscript from being completed (in percent completion)?
+  5. What keeps the manuscript from being submitted today?
+  6. List what is missing from the manuscript that could improve its impact.
+  7. What could be removed from the manuscript to streamline it?

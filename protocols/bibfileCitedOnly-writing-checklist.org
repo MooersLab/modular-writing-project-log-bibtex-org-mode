@@ -1,0 +1,6 @@
+# Protocol to generate a bib file with only cited references
+- [ ] Run the following code to generate a bib file of the papers cited in a manuscript:
+- [ ] bibtool --preserve.key.case=on -x main.aux > cited.bib
+- [ ] main.tex is the manuscript file.
+- [ ] Note that the *main.aux* file is hidden on Overleaf under the "Logs and outputs" pulldown menu.
+- [ ] The first flag in the command will preserve the letter case in the cite key.

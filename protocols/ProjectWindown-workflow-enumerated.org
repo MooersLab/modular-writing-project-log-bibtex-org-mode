@@ -1,0 +1,8 @@
+# Project winddown protocol
+1. Inventory all data made publicly available.
+2. Get all required Zenodo DOIs.
+3. Move the extensions of the project to new project(s), if not done already.
+4. Advertise paper on social media and in the department.
+5. Centrallize links to slideshow(s) about the project.
+6. Make a list of all relevent lab notebooks that contributed to the project.
+7. Report publication to the relevant user programs at local, regional, and national facilties.

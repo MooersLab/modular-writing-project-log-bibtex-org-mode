@@ -1,0 +1,25 @@
+- Sanity check Why this paper? Why you?
+      - What is the big question?
+      - How will the answer advance the field?
+      - How can it add to the significance section of your next grant application?
+      - Who is the audience for this paper?
+      - Who is best prepared to answer the question?
+      - How does this paper fit into your research program?
+      - How will it fit into your contributions to science section of your NIH Biosketch?
+- Idea development
+      - List of alternate wordings of the central hypotheses
+      - Last paragraph of Introduction
+      - First paragraph of Introduction
+      - List key experiments to address central question in Results section
+      - List points to consider in Discussion to put results in context of broader field
+      - Update the Introduction and perhaps draft the abstract and cover letter
+      - Generate associated lists
+      - Central hypothesis
+      - Titles
+      - Keywords
+      - Reviewers
+      - Competitors
+      - Collaborators
+      - target journal and plan B journals
+- Data inventory*\footnote{Second day activity}
+- Resource mobilization planning*\footnote{Second day activity}

@@ -1,0 +1,6 @@
+# List of related links on MooersLab on github.com
+1. https://github.com/MooersLab#emacs-related Emacs related repos
+2. https://github.com/MooersLab#writing-productivity-tools Writing productivity and accountability tools
+3. https://github.com/MooersLab#voice-computing Voice computing (dictation)
+4. https://github.com/MooersLab/compile-emacs-29  Compile GNU Emacs 29 from source code on mac OS 15
+5. https://github.com/MooersLab/bib2item3 bibtex to bibitem conversion.

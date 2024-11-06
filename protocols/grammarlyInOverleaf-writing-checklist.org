@@ -1,0 +1,7 @@
+# Protocol for using Grammarly on Overleaf
+- [ ] Overleaf is great for collaborative writing and editing.
+- [ ] Chrome has the TextArea extension that is needed to run Grammarly in Overleaf.
+- [ ] Use the shortcuts (new commands defined in the preamble) to save time typing.
+- [ ] Where shortcuts are not possible, use templates.
+- [ ] Overleaf with Chrome is able to run Grammarly via the Chrome Grammarly extension.
+- [ ] Code snippets can be mapped to voice commands in Voice In Plus to compensate for the lack of snippet support in Overleaf.

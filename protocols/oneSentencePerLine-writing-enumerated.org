@@ -1,0 +1,13 @@
+# Reasoning behind writing one sentence per line
+1. Eases rewriting by shuffling sentences within and between paragraphs by moving them up and down with the meta-arrows keys in Emacs.
+2. Eases using Control-K to delete a line (a sentence) and paste it elsewhere in other text editors.
+3. Provides a built-in constraint on long sentences.
+4. It eases identifying where sentence length needs variation.
+5. A sentence is a complete thought and the primary writing unit, so it deserves its own line.
+6. Eases  checks on the overuse of the same word at the start of adjacent
+7. Aids the identification of incomplete sentences.
+8. Removes doubt about where the next sentence starts--it always starts at the left margin.
+9. Why wrap sentences? We do it to save paper and money for publishers. This does not make sense in the age of electronic media.
+10. Why wrap sentences? Some claim that sentence wrapping promotes reading comprehension: I think it deters it.
+11. Caution: Code in minted blocks will run off the right margin if not line-wrapped with a line break.
+12. Caution: Most people are not used to seeing one sentence per line and may give you puzzled looks and make inquisitive comments.

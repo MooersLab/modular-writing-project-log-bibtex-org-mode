@@ -1,0 +1,11 @@
+# Nine questions addressed to generate a story summary.
+- Introduction: What is the central question?
+- Introduction: Why is the question important?
+- Introduction: What data(variables) are needed to answer this question?
+- Methods: What methods are used to get those data?
+- Methods: What analysis must be applied for the data to answer the central question?
+- Results: What data (values) were obtained?
+- Results: What were the results of the analyses?
+- Discussion: How did the analyses answer the central question?
+- Discussion: What does this answer tell use about the broader field?
+- Source: \cite{Heard2022TheScientistsGuideToWriting2ndEditionHowToWriteMoreEasilyAndEffectivelyThroughoutYourScientificCareer}
